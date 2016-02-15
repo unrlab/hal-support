@@ -1,0 +1,12 @@
+{
+    "name": "unrlab/hal-support",
+    "description": "HAL format support",
+    "minimum-stability": "stable",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Jeremy Guido",
+            "email": "dje.guido@gmail.com"
+        }
+    ]
+}
