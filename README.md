@@ -3,11 +3,15 @@
 namespace UnrLab\Domain;
 
 use JMS\Serializer\Annotation as JMS;
+
 use UnrLab\Model\HalBuilder;
+
 use UnrLab\Model\Serializable;
 
+
 class Company implements Serializable {
-    use HalBuilder;
+
+use HalBuilder;
     
     /**
      * @var integer
