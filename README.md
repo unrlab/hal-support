@@ -1,5 +1,6 @@
 # hal-support
 
+
 namespace UnrLab\Domain;
 
 use JMS\Serializer\Annotation as JMS;
