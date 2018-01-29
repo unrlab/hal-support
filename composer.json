@@ -2,7 +2,7 @@
     "name": "unrlab/hal-support",
     "description": "HAL format support",
     "minimum-stability": "stable",
-    "license": "GNU",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Jeremy Guido",
